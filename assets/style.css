@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+}
+.navbar{
+margin-left: 250px;
+}
+header{
+    background-image: url('../images/Screenshot-2021-12-13-212339.jpg');
+    height: auto;
+}
+.textcenter1{
+    text-align: center;
+    color: white
+}
+.textcenter1 h2{
+    font-size: 56px;
+}
+.nav-item{
+    padding: 20px
+}
+.aclass{
+    display: flex;
+}
+.buttons{
+    display: flex;
+}
+.buton1{
+    margin-left: 280px;
+    outline:none;
+    border: none;
+    border-radius: 30px;
+    background-color: blue;
+    padding: 20px;
+    color: white;
+}
